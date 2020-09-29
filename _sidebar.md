@@ -2,6 +2,7 @@
     * [java基础](/zh-cn/java基础.md) 
     * [集合](/zh-cn/集合.md) 
     * [IO](/zh-cn/javaIO异常新特性.md) 
+    * [基础](/zh-cn/基础.md) 
     * [线程的生命周期](/zh-cn/线程的生命周期.md) 
     * [线程的基本知识](/zh-cn/线程的基本知识.md) 
     * [内部类](/zh-cn/内部类.md) 
@@ -28,4 +29,5 @@
 * **mybatis**
 * **springboot**
 * **springboot**
+    
 
