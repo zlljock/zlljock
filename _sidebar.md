@@ -10,12 +10,13 @@
     * [Arraylist](/zh-cn/ArrayList源码.md) 
 * **jvm**
     * [类加载过程和类加载器](/zh-cn/类加载机制.md)
-    * [垃圾回收]()
+    * [垃圾回收](/zh-cn/java内存模型.md)
     * [java内存模型](/zh-cn/java基础.md)
 * **多线程并发**
  * [锁](/zh-cn/锁.md)
+ * [线程池](/bingfa/线程池.md)
 * **数据结构**
-* **排序**
+    * [排序](/shujujiegou/排序.md)
 * **mysql**
     * [mysql](/zh-cn/mysql.md)
     * [索引](/zh-cn/mysql索引查询优化.md)
@@ -28,6 +29,6 @@
     * [springmvc源码](/springmvc/springmvc源码+servlet.md)
 * **mybatis**
 * **springboot**
-* **springboot**
-    
+* **设计模型**
+     * [设计模型](/zh-cn/常用的设计模型.md)
 
